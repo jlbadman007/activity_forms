@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700&display=swap');
+h1{
+	color: black;
+}
+
+
+div {
+	margin: 25px;
+}
+
+.Facebook{
+    padding-top: 15px;
+    padding-bottom: 15px;
+	padding-right: 85px;
+	padding-left: 85px;
+	text-decoration: none;
+	background-color: #1466a0;
+	text-align: center;
+	color: white;
+	border-radius: 30px;
+	font-family:'Roboto Condensed', sans-serif;
+}
+
+
+.Twitter{
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-right: 90px;
+		padding-left: 90px;
+		text-decoration: none;
+		background-color: dodgerblue;
+		text-align: center;
+		color: white;
+		border-radius: 30px;
+		border-style: round;
+		font-family:'Roboto Condensed', sans-serif;
+	
+}
+
+.Login{
+	background-color: #E2E2E2;
+	font-family:'Roboto Condensed', sans-serif;
+	padding-bottom: 150px;
+	padding-top: 150px;
+	color:black;
+
+}
+
+input[type=text], input[type=password]{
+     color: black;
+     background-color: white;
+     padding-top: 15px;
+	 padding-bottom: 15px;
+	 padding-right: 60px;
+	 padding-left: 60px;
+     border: #b6f0ff;
+
+     font-family:'Roboto Condensed', sans-serif;
+     border-radius: 30px;
+}
+input[type="submit"] {
+ border: none;
+color: black;
+     background-color: #505F66;
+     padding-top:20px;
+	 padding-bottom: 20px;
+	 padding-right: 60px;
+	 padding-left: 60px;
+     border-bottom: 10px;
+     font-family: 'Roboto Condensed', sans-serif;
+     border-radius: 30px;
+     color: white; 	
+}
+
+.Acc {
+	color: #8E8E8E;
+}
